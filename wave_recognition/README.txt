@@ -1,3 +1,8 @@
+We hightly recommend to watch our demo and poster first
+Demo: https://www.youtube.com/watch?v=1mxitBsI-Ow
+Poster: https://drive.google.com/file/d/10oPQA3EOSzhQ2bQRENJCDh9cXs3bxN_G/view
+
+
 poster_visual.m is the latest version of the file we used, there are some section commented out since those are for data collection and abandoned functionality.
 
 To run this application, you need a '.bag' file. The command is 
